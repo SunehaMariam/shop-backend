@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Env files
+.env
+
+# Build
+dist
+
+# OS / Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Firebase secrets
+firebaseServiceAccount.json
+
+# Vercel
+.vercel/
